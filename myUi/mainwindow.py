@@ -589,7 +589,7 @@ class Ui_MainWindow(QWidget):
 
     def generate_x24(self,x):
         if x == 1:
-            return "20*0.086"
+            return "24*0.086"
         elif x == 2:
             return "36*0.080"
         elif x == 3:

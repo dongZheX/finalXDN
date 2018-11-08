@@ -30,7 +30,7 @@ def func2(x):
 # 处理行24
 
 def func3(x):
-    if x == "20*0.086":
+    if x == "24*0.086":
         return 1
     elif x == "36*0.080":
         return 2
