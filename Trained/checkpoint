@@ -1,0 +1,2 @@
+model_checkpoint_path: "E:/pyProject/finalXDN/Trained/factory.ckpt"
+all_model_checkpoint_paths: "E:/pyProject/finalXDN/Trained/factory.ckpt"

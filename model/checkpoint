@@ -1,0 +1,2 @@
+model_checkpoint_path: "factory.ckpt"
+all_model_checkpoint_paths: "factory.ckpt"
